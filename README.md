@@ -5,7 +5,7 @@
 
 📄 **Published in:** Computers and Electronics in Agriculture (2025)  
 🔗 **Paper link:** [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0168169925012980)  
-📂 **Dataset:** [Available on Figshare](https://doi.org/10.6084/m9.figshare.XXXXX) *(replace with actual link)*  
+📂 **Dataset:** [Available on Figshare](https://doi.org/10.6084/m9.figshare.XXXXX) *(Uploaded and currently under admin approval; the link will be accessible soon.)*  
 
 ---
 
