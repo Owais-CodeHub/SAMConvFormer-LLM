@@ -10,12 +10,9 @@
   📄 <strong>Computers and Electronics in Agriculture (2025)</strong>  
   <br/>
   🔗 <a href="https://www.sciencedirect.com/science/article/pii/S0168169925012980">ScienceDirect Paper</a> ·
-  📂 <a href="https://doi.org/10.6084/m9.figshare.XXXXX">Dataset (Figshare)</a>
+  📂 <a href="https://figshare.com/s/8f843d7b91a4711210dc">Dataset (Figshare)</a>
 </p>
 
-<p align="center">
-  <em>⚠️ Dataset is uploaded and currently under administrative approval. The link will become active shortly.</em>
-</p>
 
 ---
 
@@ -130,7 +127,7 @@ Segment Anything Model · Joint Convolutional Transformer · Large Language Mode
 
 ## 📬 Citation
 
-If you use this work in your research, please cite:
+If you use this data and work in your research, please cite following:
 
 ```bibtex
 @article{Owais2025SAMConvFormerLLM,
@@ -141,4 +138,14 @@ If you use this work in your research, please cite:
   issn    = {0168-1699},
   doi     = {10.1016/j.compag.2025.111192},
   url     = {https://www.sciencedirect.com/science/article/pii/S0168169925012980}
+}
+
+@article{Owais2025AgriVision,
+  title   = {AgriVision: A Benchmark Dataset for Advancing Real-World Robotic Vision in Densely Fruited Blueberry Crop},
+  author  = {Owais, Muhammad and Shafay, Muhammad and Zubair, Muhammad and Mohammed, Shamal and Seneviratne, Lakmal and Hussain, Irfan},
+  journal = {Scientific Data},
+  year    = {2025},
+  doi     = {10.1038/s41597-025-06263-3},
+  url     = {https://doi.org/10.1038/s41597-025-06263-3},
+  publisher = {Nature Publishing Group}
 }
